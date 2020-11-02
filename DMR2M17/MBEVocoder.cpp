@@ -18,7 +18,7 @@
 *   Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
 */
 #include <cstring>
-#include <md380_vocoder.h>
+#include "md380_vocoder.h"
 #include "MBEVocoder.h"
 
 
